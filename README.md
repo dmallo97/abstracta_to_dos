@@ -33,7 +33,7 @@ git clone <repo-url>
 This project includes features such as content generation that require API keys.
 
 - A `.env` file is required and should be placed at the root of the project.
-- Make sure to obtain and include the correct API keys inside that file.
+- Make sure to download it [from here](https://drive.google.com/file/d/1OMCsliRyN2epssIm2QyHGEIJm5prD8uG/view?usp=share_link), unzip it and place it there. It should contain Gemini's API key.
 
 ### 4. Install Dependencies
 
